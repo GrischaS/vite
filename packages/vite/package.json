@@ -98,7 +98,7 @@
     "@types/pnpapi": "^0.0.5",
     "@vitejs/devtools": "^0.0.0-alpha.31",
     "artichokie": "^0.4.2",
-    "baseline-browser-mapping": "^2.9.19",
+    "baseline-browser-mapping": "^2.11.0",
     "cac": "^6.7.14",
     "chokidar": "^3.6.0",
     "connect": "^3.7.0",
